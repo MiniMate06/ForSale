@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color:crimson;
+}
+
+header{
+	background-color: whitesmoke;
+	padding: 20px;
+}
+
+h1{
+	margin: 0;
+	text-align: center;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+}
+
+article{
+	background-color: aqua;
+	padding: 20px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+img{
+	width: 15%;
+	float:left;
+	padding-right: 20px;
+}
+
+footer{
+	background-color: white;
+	padding: 20px;
+	clear: both;
+	text-align: center;
+}
